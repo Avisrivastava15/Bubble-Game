@@ -28,13 +28,21 @@ The Bubble Game is a simple web-based game where a random number is displayed, a
 **How To Play**
 
 1.Click the START button to begin the game.
+
 2.A target number will appear under the Hit section.
+
 3.Click on the bubble containing the matching number to increase your score.
+
 4.The game ends when the timer hits 0.
+
 5.Your final score will be displayed at the end of the game.
+
 
  **Future Improvements**
 1.Add difficulty levels (e.g., easy, medium, hard).
+
 2.Introduce animations for bubble clicks.
+
 3.Add sound effects for clicks and timer countdown.
+
 4.Display a leaderboard for high scores.
