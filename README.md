@@ -2,11 +2,15 @@
 
 A fun and interactive bubble game where players match numbers to score points within a limited time! This project is built using HTML, CSS, and JavaScript.
 
+
 **Description**
+
 
 The Bubble Game is a simple web-based game where a random number is displayed, and the player has to click on the bubble containing the matching number to score points. The game is designed to test the player’s speed and accuracy within a 60-second timer.
 
+
 **Features**
+
 
 **Interactive Gameplay:** Click the correct bubble to increase your score.
 
@@ -17,7 +21,9 @@ The Bubble Game is a simple web-based game where a random number is displayed, a
 **Score Tracking:** Live score updates for player feedback.
 
 
+
 **Technologies Used**
+
 
 **HTML:** Structure of the game.
 
@@ -26,7 +32,9 @@ The Bubble Game is a simple web-based game where a random number is displayed, a
 **JavaScript:** Game logic and interactivity.
 
 
+
 **How To Play**
+
 
 1.Click the START button to begin the game.
 
@@ -39,7 +47,10 @@ The Bubble Game is a simple web-based game where a random number is displayed, a
 5.Your final score will be displayed at the end of the game.
 
 
+ 
  **Future Improvements**
+
+ 
 1.Add difficulty levels (e.g., easy, medium, hard).
 
 2.Introduce animations for bubble clicks.
