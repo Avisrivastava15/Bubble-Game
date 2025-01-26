@@ -33,6 +33,9 @@ function runTimer(){
             const button=document.querySelector("#btn");
             button.textContent = "START";
             button.style.color="rgb(18, 119, 57)";
+            document.querySelector("#timerval").style.color="rgb(18, 119, 57)";
+            timer=60;
+            document.querySelector("#timerval").textContent=timer;
         }
     },1000);
 }
