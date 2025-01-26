@@ -16,6 +16,7 @@ The Bubble Game is a simple web-based game where a random number is displayed, a
 
 **Score Tracking:** Live score updates for player feedback.
 
+
 **Technologies Used**
 
 **HTML:** Structure of the game.
