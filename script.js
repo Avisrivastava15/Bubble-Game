@@ -72,5 +72,6 @@ document.querySelector("#btn").addEventListener("click", function () {
         button.textContent = "START";
         button.style.color="rgb(18, 119, 57)";
         timer = 0;
+        document.querySelector("#timerval").textContent = timer;
     }
 });
