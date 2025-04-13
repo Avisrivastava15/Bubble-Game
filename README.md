@@ -1,6 +1,6 @@
-# Bubble-Game
+# Bubble-Game (Practice Project)
 
-A fun and interactive bubble game where players match numbers to score points within a limited time! This project is built using HTML, CSS, and JavaScript.
+A fun and interactive bubble game where players match numbers to score points within a limited time! This project is built using HTML, CSS, and JavaScript for practicing DOM manipulatiom.
 
 
 **Description**
